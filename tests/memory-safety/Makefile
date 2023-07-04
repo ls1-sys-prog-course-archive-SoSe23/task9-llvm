@@ -48,3 +48,4 @@ check: all
 	python3 test-malloc.py
 	python3 test-use-after-free.py
 	python3 test-stack.py
+	python3 test-performance.py
